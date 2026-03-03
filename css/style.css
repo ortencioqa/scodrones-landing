@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: white;
+  text-align: center;
+}
+
+header {
+  padding: 100px 20px;
+  background: linear-gradient(to right, #0ea5e9, #1e3a8a);
+}
+
+.btn {
+  background: white;
+  color: black;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.card {
+  background: #1e293b;
+  padding: 30px;
+  border-radius: 10px;
+}
